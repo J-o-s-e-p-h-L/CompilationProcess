@@ -1,0 +1,4 @@
+(inc x) where {
+  int x          : 100;
+  int -> int inc : fun(int a){a + 1}
+}

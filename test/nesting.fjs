@@ -1,0 +1,3 @@
+(a + 1 where {int a: 3})
+*
+(b - 1 where {int b: 10})

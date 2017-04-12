@@ -1,0 +1,1 @@
+(x + y + z) where{int y: 5; int x:10; int z:5}

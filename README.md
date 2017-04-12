@@ -1,0 +1,1 @@
+A work in progress of a simplified compilation process including structuring, translation and encoding written in FunJS using a Scala IDE.

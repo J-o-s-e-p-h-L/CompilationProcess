@@ -1,0 +1,4 @@
+a where {
+   int a : 5;
+   int b : a + 1
+}

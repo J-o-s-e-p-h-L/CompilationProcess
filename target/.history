@@ -1,0 +1,27 @@
+test
+compile
+test
+test-only *ExecTests
+test
+compile
+test
+  run test/function.fjs
+run test/function.fjs
+clear
+cls
+run test/function.fjs
+compile
+run test/function.fjs
+run
+test
+compile
+test
+compile
+run
+test
+run test/function.fjs
+test
+WhereExp(AppExp(IdnUse(f),IdnUse(v)),List(Defn(IdnDef(v,ObjType()),ObjExp(List(Defn(IdnDef(y,IntType()),IntExp(5))))), Defn(IdnDef(f,FunType(ObjType(),InsideObjType())),FunExp(IdnDef(x,ObjType()),DeRefExp(IdnUse(x),y))))) (of class funjs.FunJSTree$WhereExp)
+test
+clean
+find /Users/OOOOOOOO/Projects/comp332-a3 -name ".DS_Store" -depth -exec rm {} \;
